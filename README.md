@@ -1,6 +1,6 @@
 # RabbitMQ and Apache Kafka Messages
-![](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+[![](https://img.shields.io/badge/-RabbitMQ-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://www.rabbitmq.com/tutorials/tutorial-one-dotnet)
+[![](https://img.shields.io/badge/-Apache%20Kafka-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://docs.confluent.io/kafka-clients/dotnet/current/overview.html)
 ## Scalable Messaging Application with Repository Pattern
 This project is a scalable version of a messaging application built using the `Repository Pattern` to ensure clean architecture and maintainability. It demonstrates how to integrate and switch between two powerful messaging services — RabbitMQ and Apache Kafka — showcasing the flexibility and scalability of the system.
 
