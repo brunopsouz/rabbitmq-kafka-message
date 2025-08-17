@@ -12,7 +12,7 @@ This project is a scalable version of a messaging application built using the `R
 - Designed for scalability and extensibility
 
 ## Architecture Overview:
-
+- [Architecture](https://github.com/brunopsouz/rabbitmq-kafka-message/blob/main/STRUCTURE.md)
 
 ## Technologies Used
 - .NET 
