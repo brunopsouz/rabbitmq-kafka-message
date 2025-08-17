@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Publisher.Api\\Publisher.Api.csproj": {}
+    "E:\\GitHub\\rabbitmq-kafka-message\\src\\Publisher.Api\\Publisher.Api.csproj": {}
   },
   "projects": {
-    "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Models.App\\Models.App.csproj": {
+    "E:\\GitHub\\rabbitmq-kafka-message\\src\\Models.App\\Models.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Models.App\\Models.App.csproj",
+        "projectUniqueName": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Models.App\\Models.App.csproj",
         "projectName": "Models.App",
-        "projectPath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Models.App\\Models.App.csproj",
+        "projectPath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Models.App\\Models.App.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Models.App\\obj\\",
+        "outputPath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Models.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Publisher.Api\\Publisher.Api.csproj": {
+    "E:\\GitHub\\rabbitmq-kafka-message\\src\\Publisher.Api\\Publisher.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Publisher.Api\\Publisher.Api.csproj",
+        "projectUniqueName": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Publisher.Api\\Publisher.Api.csproj",
         "projectName": "Publisher.Api",
-        "projectPath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Publisher.Api\\Publisher.Api.csproj",
+        "projectPath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Publisher.Api\\Publisher.Api.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Publisher.Api\\obj\\",
+        "outputPath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Publisher.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -99,14 +99,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Models.App\\Models.App.csproj": {
-                "projectPath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Models.App\\Models.App.csproj"
+              "E:\\GitHub\\rabbitmq-kafka-message\\src\\Models.App\\Models.App.csproj": {
+                "projectPath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Models.App\\Models.App.csproj"
               },
-              "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Repositories.App\\Repositories.App.csproj": {
-                "projectPath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Repositories.App\\Repositories.App.csproj"
+              "E:\\GitHub\\rabbitmq-kafka-message\\src\\Repositories.App\\Repositories.App.csproj": {
+                "projectPath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Repositories.App\\Repositories.App.csproj"
               },
-              "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Service.App\\Service.App.csproj": {
-                "projectPath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Service.App\\Service.App.csproj"
+              "E:\\GitHub\\rabbitmq-kafka-message\\src\\Service.App\\Service.App.csproj": {
+                "projectPath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Service.App\\Service.App.csproj"
               }
             }
           }
@@ -155,14 +155,14 @@
         }
       }
     },
-    "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Repositories.App\\Repositories.App.csproj": {
+    "E:\\GitHub\\rabbitmq-kafka-message\\src\\Repositories.App\\Repositories.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Repositories.App\\Repositories.App.csproj",
+        "projectUniqueName": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Repositories.App\\Repositories.App.csproj",
         "projectName": "Repositories.App",
-        "projectPath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Repositories.App\\Repositories.App.csproj",
+        "projectPath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Repositories.App\\Repositories.App.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Repositories.App\\obj\\",
+        "outputPath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Repositories.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -184,8 +184,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Models.App\\Models.App.csproj": {
-                "projectPath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Models.App\\Models.App.csproj"
+              "E:\\GitHub\\rabbitmq-kafka-message\\src\\Models.App\\Models.App.csproj": {
+                "projectPath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Models.App\\Models.App.csproj"
               }
             }
           }
@@ -235,14 +235,14 @@
         }
       }
     },
-    "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Service.App\\Service.App.csproj": {
+    "E:\\GitHub\\rabbitmq-kafka-message\\src\\Service.App\\Service.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Service.App\\Service.App.csproj",
+        "projectUniqueName": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Service.App\\Service.App.csproj",
         "projectName": "Service.App",
-        "projectPath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Service.App\\Service.App.csproj",
+        "projectPath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Service.App\\Service.App.csproj",
         "packagesPath": "C:\\Users\\bruno\\.nuget\\packages\\",
-        "outputPath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Service.App\\obj\\",
+        "outputPath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Service.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -264,11 +264,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Models.App\\Models.App.csproj": {
-                "projectPath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Models.App\\Models.App.csproj"
+              "E:\\GitHub\\rabbitmq-kafka-message\\src\\Models.App\\Models.App.csproj": {
+                "projectPath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Models.App\\Models.App.csproj"
               },
-              "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Repositories.App\\Repositories.App.csproj": {
-                "projectPath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Repositories.App\\Repositories.App.csproj"
+              "E:\\GitHub\\rabbitmq-kafka-message\\src\\Repositories.App\\Repositories.App.csproj": {
+                "projectPath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Repositories.App\\Repositories.App.csproj"
               }
             }
           }

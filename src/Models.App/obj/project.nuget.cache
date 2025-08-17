@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7q6iGL1dcvs=",
+  "dgSpecHash": "6oShLxV0suI=",
   "success": true,
-  "projectFilePath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Models.App\\Models.App.csproj",
+  "projectFilePath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Models.App\\Models.App.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

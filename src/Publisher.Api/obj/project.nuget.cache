@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1W+t0i0oyOQ=",
+  "dgSpecHash": "1xicXvZT7k8=",
   "success": true,
-  "projectFilePath": "E:\\GitHub\\rabbitmq-kafka-message-v01\\src\\Publisher.Api\\Publisher.Api.csproj",
+  "projectFilePath": "E:\\GitHub\\rabbitmq-kafka-message\\src\\Publisher.Api\\Publisher.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bruno\\.nuget\\packages\\confluent.kafka\\2.11.0\\confluent.kafka.2.11.0.nupkg.sha512",
     "C:\\Users\\bruno\\.nuget\\packages\\librdkafka.redist\\2.11.0\\librdkafka.redist.2.11.0.nupkg.sha512",
