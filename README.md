@@ -20,7 +20,7 @@ This project is a scalable version of a messaging application built using the `R
 - Apache Kafka
 - Docker & Docker Compose
 - Repository Pattern
-- Clean Architecture principles
+- Repository Pattern principles
 
 ## Getting Started:
 - Clone the repository:
