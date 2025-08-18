@@ -19,7 +19,6 @@ This project is a scalable version of a messaging application built using the `R
 - RabbitMQ
 - Apache Kafka
 - Docker & Docker Compose
-- Repository Pattern
 - Repository Pattern principles
 
 ## Getting Started:
