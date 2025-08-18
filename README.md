@@ -30,7 +30,7 @@ https://github.com/brunopsouz/rabbitmq-kafka-message.git
 ```bash
 docker-compose up -d
 ```
-- Open the Manage NuGet Packages menu and verify that RabbitMQ.Client or Apache are installed:
+- Open the Manage NuGet Packages menu and verify that RabbitMQ.Client or Confluent.Kafka; are installed:
 ```bash
 dotnet add package RabbitMQ.Client
 ```
